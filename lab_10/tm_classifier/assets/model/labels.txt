@@ -1,0 +1,6 @@
+0 Background
+1 Akbar
+2 Phone
+3 Mouse
+4 Hand
+5 Sirojbek
